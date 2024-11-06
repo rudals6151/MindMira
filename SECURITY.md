@@ -38,12 +38,3 @@ We regularly update our security measures to address evolving threats and mainta
 
 By using MindMira, users agree to this security policy. We are committed to maintaining trust through transparency and rigorous security practices.
 
-Citations:
-[1] https://hiverhq.com/blog/chatbot-features
-[2] https://www.tidio.com/blog/chatbot-features/
-[3] https://www.inbenta.com/articles/8-must-have-chatbot-features-to-improve-customer-experience/
-[4] https://www.proprofschat.com/blog/chatbot-features/
-[5] https://www.podium.com/article/essential-chatbot-features-to-consider/
-[6] https://github.com/djsudduth/mindmap-markdown/blob/main/README.md
-[7] https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-[8] https://github.com/orgs/community/discussions/16925

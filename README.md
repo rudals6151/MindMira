@@ -1,19 +1,23 @@
-# MindMira: Empathetic Self-Reflection Chatbot for Korean University Students
-MindMira is an innovative psychological support chatbot designed specifically for Korean university students. Our mission is to provide a safe, accessible, and empathetic platform where users can openly explore their emotions and thoughts without judgment or pressure.
-Key Features:
-Self-Reflection Focus: Encourages users to understand their emotions and personal issues deeply rather than seeking immediate solutions.
-Korea-Specific Insights: Incorporates data on social issues unique to Korea, making it culturally relevant and effective.
-Anonymity and Confidentiality: Ensures a secure environment for open communication.
-Empathetic Interaction: Utilizes advanced NLP to provide understanding and supportive responses.
-Specialized for University Students: Addresses common concerns and challenges faced by Korean university students.
-Technical Stack:
-Python
-Hugging Face for language models
-LangChain for building LLM agents
-Streamlit for user interface
-Team:
-Kim Kyungmin: Data collection and preprocessing
-Kim Sunjae & Lee Gaeun: Model training and optimization
-Cho Hyeju: User interface development with Streamlit
-MindMira aims to be a supportive partner for students, helping them navigate their concerns and gain emotional stability. By focusing on self-understanding and awareness, we hope to contribute to better mental wellness among Korean university students.
-Join us in our journey to make mental health support more accessible and tailored to the needs of young adults in Korea!
+Here's the GitHub description for MindMira in Markdown format:
+
+# MindMira: Empathetic Chatbot for Korean University Students
+
+MindMira is a psychological support chatbot designed to help Korean university students explore their emotions and thoughts in a safe, judgment-free environment. Our mission is to foster self-reflection and emotional awareness, addressing the unique social issues faced by students in Korea.
+
+## Key Features:
+- **Self-Reflection Focus:** Encourages understanding of personal emotions
+- **Culturally Relevant:** Incorporates insights specific to Korean society
+- **Anonymity Guaranteed:** Ensures a secure space for open dialogue
+
+## Tech Stack:
+- Python
+- Hugging Face
+- LangChain
+- Streamlit
+
+## Team:
+- Kim Kyungmin: Data Collection
+- Kim Sunjae & Lee Gaeun: Model Training
+- Cho Hyeju: UI Development
+
+Join us in making mental health support accessible and tailored for students!

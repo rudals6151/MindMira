@@ -1,5 +1,3 @@
-Here's a security policy for MindMira:
-
 ## MindMira Security Policy
 
 At MindMira, we prioritize the security and privacy of our users. Our commitment to protecting sensitive information is fundamental to our mission of providing a safe space for Korean university students to explore their emotions and thoughts.

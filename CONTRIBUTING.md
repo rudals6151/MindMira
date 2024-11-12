@@ -1,5 +1,3 @@
-Here's a CONTRIBUTING.md file for MindMira:
-
 # Contributing to MindMira
 
 We're thrilled that you're interested in contributing to MindMira! This document provides guidelines for contributing to the project. By participating in this project, you agree to abide by its terms.

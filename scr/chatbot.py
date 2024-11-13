@@ -42,7 +42,7 @@ model = AutoModelForCausalLM.from_pretrained("Soeon/bitaminnlp1")
 # 문장 임베딩 모델 로드
 sentence_model = SentenceTransformer('distilbert-base-nli-mean-tokens')
 
-st.title('법률 정보 제공 및 심리 상담 챗봇😎')
+st.title('MindMira: Empathetic Chatbot for Korean University Students')
 
 # 사용자 정보 입력
 user_name = st.text_input("이름을 입력하세요:")
@@ -53,8 +53,9 @@ if user_name and user_age and user_gender:
     st.write(f"안녕하세요, {user_name}님! ({user_age}세, {user_gender})")
 
     prompt_template = """
-    당신은 법률 전문가입니다. 법률에 관한 질문에 해당 **{context}**를 철저히 검토하고,
-    정확하고 명확한 법률적 조언을 제공해주세요. 특히, 법적 용어와 개념을 이해기 쉽도록 자세히 설명하고,
+    당신은 법률 전문가이자 심리 상담 전문가입니다. 법률에 관한 질문에 해당 **{context}**를 철저히 검토하고,
+    정확하고 명확한 법률적 조언을 제공해주세요. 심리 상담에 대해서는 공감적이고 이해하기 쉬운 방식으로 대화해주세요.
+    특히, 법적 용어와 개념을 이해기 쉽도록 자세히 설명하고,
     질문에 직접적으로 답변하는 것을 우선시해주세요. 
     상대방의 연령과 상황에 맞는 말투와 설명 방식을 사용해 자연스럽고 인간적인 대화를 이어가세요.
 

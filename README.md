@@ -20,4 +20,4 @@ MindMira is a psychological support chatbot designed to help Korean university s
 - Kim Sunjae & Lee Gaeun: Model Training
 - Cho Hyeju: UI Development
 
-Join us in making mental health support accessible and tailored for students!
+Join us in making mental health support accessible and tailored for students!😊
